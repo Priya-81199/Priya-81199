@@ -7,9 +7,7 @@
 - 😄 Pronouns: She/her
 
 
-![Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priya-81199&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-81199&layout=compact&hide=MakeFile)
+![Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priya-81199&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-81199&layout=compact&hide=MakeFile)
 
 <!--
 **Priya-81199/Priya-81199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
