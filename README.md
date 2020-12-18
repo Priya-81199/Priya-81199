@@ -6,6 +6,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/CoderCooks), [LinkedIn](https://www.linkedin.com/in/priya-mishra-577447177/), [Medium](https://medium.com/@priya81199)
 - 😄 Pronouns: She/her
 
+### <img src="https://www.pngfind.com/pngs/m/259-2594639_vector-emoji-chart-stats-icon-png-transparent-png.png" width="30px"> Github Stats
 
 ![Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priya-81199&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-81199&layout=compact&hide=MakeFile)
 
