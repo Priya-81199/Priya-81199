@@ -8,7 +8,11 @@
 
 
 ![Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priya-81199&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-81199&layout=compact&hide=MakeFile)
+
 ![](https://komarev.com/ghpvc/?username=Priya-81199&color=green)
+
+### <img src="https://hotemoji.com/images/dl/d/man-technologist-emoji-by-google.png" width="30px"> Technologies and Tools 
+
 <!--
 **Priya-81199/Priya-81199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
