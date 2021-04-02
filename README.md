@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on various Mobile & Web Apps.
-- 🌱 I’m currently learning Flutter and Dart.
+- 🌱 I’m currently learning Flutter and React.
 - 🤔 I’m looking for help with Transfer Learning in Python.
 - 📫 How to reach me: [Twitter](https://twitter.com/CoderCooks), [LinkedIn](https://www.linkedin.com/in/priya-mishra-577447177/), [Medium](https://medium.com/@priya81199)
 - 😄 Pronouns: She/her
